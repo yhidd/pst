@@ -126,11 +126,11 @@
 							<li><a href="#">Page List</a></li>
 						</ul>
 						<ul class="list-unstyled social">
-							<li><a href="#"><span class="icon-instagram"></span></a></li>
-							<li><a href="#"><span class="icon-twitter"></span></a></li>
-							<li><a href="#"><span class="icon-facebook"></span></a></li>
-							<li><a href="#"><span class="icon-youtube"></span></a></li>
-							<li><a href="#"><span class="icon-linkedin"></span></a></li>
+							<li><a href="https://www.instagram.com/pst_indonesia/"><span class="icon-instagram"></span></a></li>
+							<li><a href="https://twitter.com/PT_PST"><span class="icon-twitter"></span></a></li>
+							<li><a href="https://www.facebook.com/primasistemterpadu"><span class="icon-facebook"></span></a></li>
+							<li><a href="https://www.youtube.com/channel/UCpdFg_h65E7CRrum6y5ccXQ"><span class="icon-youtube"></span></a></li>
+							<li><a href="https://www.linkedin.com/company/primasistemterpadu/"><span class="icon-linkedin"></span></a></li>
 							
 						</ul>
 					</div> 

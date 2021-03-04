@@ -3,7 +3,7 @@
 		<div class="row align-items-center justify-content-between">
 			<div class="col-lg-5">
 				<h1 class="heading text-white mb-3" data-aos="fade-up">We Help Grow Your Business</h1>
-				<p class="text-white mb-5 w-75" data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+				<p class="text-white mb-5 w-75" data-aos="fade-up" data-aos-delay="100">PST would provide a total solution for your company to achieve your business objective through combination of process, people and technology (software, hardware or infrastructure) aligned with your business strategy.</p>
 				<div class="d-flex align-items-center mb-5" data-aos="fade-up" data-aos-delay="200">
 					<a href="#" class="btn white-btn me-4">Contact us</a>
 					<a href="https://www.youtube.com/watch?v=mwtbEGNABWU&t=12s" class="text-white glightbox">Watch the video</a>
@@ -24,8 +24,8 @@
 				<div class="feature d-flex">
 					<span class="flaticon-financial"></span>
 					<div>
-						<h3>On Time Service</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+						<h3>Full Commitment and Honest Partnership</h3>
+						<p>We believe that success is something that can be achieved through commitment and collaboration. We are committed to give the best solution for your problem. Our team are dedicated to work together with you to solve the problem. We don’t just do business, we build a long lasting and sustainable partnership with our clients.</p>
 					</div>
 				</div>
 			</div>
@@ -33,8 +33,8 @@
 				<div class="feature d-flex">
 					<span class="flaticon-security"></span>
 					<div>
-						<h3>On Time Service</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+						<h3>Lower TCO and faster ROI</h3>
+						<p>We do know that for a company, implementing ERP is sometimes too big of an investment. Studies of ERP projects and stories of failed implementation will also make a company think twice before they decide to do it. We understand your concern, therefore we can guarantee that our company will help you analyse and identify the factors relevant to your business and provide the best solution suited to your needs and requirements.</p>
 					</div>
 				</div>
 			</div>
@@ -42,8 +42,8 @@
 				<div class="feature d-flex">
 					<span class="flaticon-savings"></span>
 					<div>
-						<h3>On Time Service</h3>
-						<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+						<h3>Wide-ranging team and experience</h3>
+						<p>Our team consists of people with different backgrounds and experiences in various industries. This has given us a wider perspective on finding the solution to our clients’ problems and challenges. Our people and experiences range from the automotive, FMCG, machinery, and other manufacturing industries. </p>
 					</div>
 				</div>
 			</div>
@@ -55,7 +55,7 @@
 		<div class="row mb-5">
 			<div class="col-lg-5 mx-auto text-center" data-aos="fade-up">
 				<h2 class="heading text-primary">Our Services</h2>
-				<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
+				<!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p> -->
 			</div>
 		</div>
 		<div class="row" id="service-show">
@@ -156,7 +156,7 @@
 
 <script>
 	$(document).ready(function() {
-		var arrService = [{title: "SAP ERP IMPLEMENTATION"},{title: "ORACLE APPLICATION DESIGN AND DEVELOPMENT"},{title: "BUSINESS PROCESS REENGINEERING"},{title: "STRATEGIC INFORMATION PLANNING"},{title: "IT OUTSOURCING"},{title: "SAP CERTIFIED"},]
+		var arrService = [{title: "SAP SOLUTION"},{title: "ORACLE APPLICATION DESIGN AND DEVELOPMENT"},{title: "BUSINESS PROCESS REENGINEERING"},{title: "STRATEGIC INFORMATION PLANNING"},{title: "SAP SUPPORT & OUTSOURCING"},{title: "SAP CERTIFIED"},]
 		var arrClient = [{},{},{},{},{},{},]
 		var arrContent = [{},{},{},]
 
